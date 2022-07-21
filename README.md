@@ -699,6 +699,6 @@ class DetailActivity : AppCompatActivity() {
         const val EXTRA_DATA_ID = "extra_data_id"
     }
 }
+````
 
 #### Terakhir, jalankan aplikasi dan hasilnya akan sama seperti yang ada di demo
-````

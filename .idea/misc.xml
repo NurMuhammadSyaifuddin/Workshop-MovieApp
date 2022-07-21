@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AKTIVITAS/WORKSHOP/PROJECT/MovieApp/app/src/main/res/drawable/bg_item_click.xml" value="0.1905" />
+        <entry key="..\:/AKTIVITAS/WORKSHOP/PROJECT/MovieApp/app/src/main/res/layout/activity_detail.xml" value="0.21" />
+        <entry key="..\:/AKTIVITAS/WORKSHOP/PROJECT/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/AKTIVITAS/WORKSHOP/PROJECT/MovieApp/app/src/main/res/layout/item_movie.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
